@@ -21,7 +21,7 @@ Here are the results of the Long/Short Equity Strategy:
 
 ### Performance Plot
 
-![Performance Plot](/images/strategy1_performance.png)
+![Performance Plot](/images/strategy1/profile-pic-2.png)
 
 ### Signal Plot
 
