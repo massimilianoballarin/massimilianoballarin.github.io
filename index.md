@@ -4,7 +4,7 @@
 
 ### Mean Reversion Strategies
 
-[Long/Short Equity Strategy](strategy1.html)<br>
+- [Long/Short Equity Strategy](strategy1.html)<br>
 
 A long/short equity strategy based on mean reversion.<br>
 
@@ -14,7 +14,7 @@ A long/short equity strategy based on mean reversion.<br>
 
 ### Momentum Strategies
 
-[Risk Managed Momentum](strategy2.html)<br>
+- [Risk Managed Momentum](strategy2.html)<br>
 
 A strategy based on risk managed momentum principle.<br>
 
