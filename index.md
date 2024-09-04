@@ -5,13 +5,13 @@
 ### Category Name 1 
 
 [Long/Short Equity Strategy](strategy1.html)<br>
-A long/short equity strategy based on mean reversion.
+A long/short equity strategy based on mean reversion.<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 [Risk Parity Strategy](strategy2.html)<br>
-A strategy based on risk parity principles.
+A strategy based on risk parity principles.<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
