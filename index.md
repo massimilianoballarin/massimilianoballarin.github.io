@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Mean Reversion Strategies
 
 [Long/Short Equity Strategy](strategy1.html)<br>
 A long/short equity strategy based on mean reversion.<br>
@@ -10,13 +10,14 @@ A long/short equity strategy based on mean reversion.<br>
 
 ---
 
-[Risk Parity Strategy](strategy2.html)<br>
-A strategy based on risk parity principles.<br>
+### Momentum Strategies
+[Risk Managed Momentum](strategy2.html)<br>
+A strategy based on risk managed momentum principle.<br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Multi-Asset Portfolio Managment Strategies
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
