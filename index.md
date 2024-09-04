@@ -4,15 +4,14 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Long/Short Equity Strategy](strategy1.html)
+A long/short equity strategy based on mean reversion.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
+[Risk Parity Strategy](strategy2.html)
+A strategy based on risk parity principles.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
